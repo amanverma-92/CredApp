@@ -1,0 +1,3 @@
+{
+  "/shared/[userId]/[shareToken]/page": "app/shared/[userId]/[shareToken]/page.js"
+}

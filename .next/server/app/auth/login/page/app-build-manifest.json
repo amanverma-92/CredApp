@@ -1,0 +1,29 @@
+{
+  "pages": {
+    "/auth/login/page": [
+      "static/chunks/8bf7e_next_dist_1d52f215._.js",
+      "static/chunks/CredApp_src_app_favicon_ico_mjs_48cc05a2._.js",
+      "static/chunks/CredApp_messages_2e10eb58._.js",
+      "static/chunks/8bf7e_469d7108._.js",
+      "static/chunks/[root-of-the-server]__0b84a3e6._.js",
+      "static/chunks/[root-of-the-server]__009f42b2._.css",
+      "static/chunks/CredApp_src_app_layout_tsx_97da594e._.js",
+      "static/chunks/8bf7e_fbfdd05a._.js",
+      "static/chunks/CredApp_src_app_not-found_tsx_91348f2e._.js",
+      "static/chunks/CredApp_src_app_not-found_tsx_f2d7f1a1._.js",
+      "static/chunks/8bf7e_next_dist_client_components_builtin_global-error_f2d7f1a1.js",
+      "static/chunks/CredApp_src_c7b3b243._.js",
+      "static/chunks/8bf7e_04ecb8ab._.js",
+      "static/chunks/CredApp_src_app_auth_login_page_tsx_f2d7f1a1._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_86ce9fca._.js",
+      "static/chunks/8bf7e_next_dist_compiled_react-dom_79a7b179._.js",
+      "static/chunks/8bf7e_next_dist_compiled_next-devtools_index_9e529279.js",
+      "static/chunks/8bf7e_next_dist_compiled_7704d031._.js",
+      "static/chunks/8bf7e_next_dist_client_ef9bf7fa._.js",
+      "static/chunks/8bf7e_next_dist_1987b1f8._.js",
+      "static/chunks/8bf7e_@swc_helpers_cjs_2da7147b._.js",
+      "static/chunks/CredApp_a0ff3932._.js",
+      "static/chunks/turbopack-CredApp_02f01e36._.js"
+    ]
+  }
+}

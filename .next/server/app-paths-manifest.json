@@ -1,0 +1,8 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/dashboard/learner/page": "app/dashboard/learner/page.js",
+  "/dashboard/learner/recommendations/page": "app/dashboard/learner/recommendations/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
